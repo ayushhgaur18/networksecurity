@@ -1,1 +1,1 @@
-# Network Security Project for Phishing Data
+# End to End MLOps project for Network Security against Phishing Data
